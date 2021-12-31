@@ -52,6 +52,7 @@ body{
     display: flex;
     flex-direction: column;
     gap: 32px;
+    border-radius: 50%;
 }
 
 .conteudo-principal-escrito-titulo{
